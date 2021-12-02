@@ -6,7 +6,8 @@ Link da exportação do site: https://drive.google.com/file/d/1MtyMr2-5LGq1zh--Q
 
 Seção 1 - Principal do site
 
-![image](https![image](https://user-images.githubusercontent.com/89862269/144514357-f5b57584-604d-4238-801e-aa0014430877.png)
+![image](https://user-images.githubusercontent.com/89862269/144514571-95964a21-98cd-4bac-969c-badd602962c0.png)
+
 
 Seçaõ 2 - Projetos
 
