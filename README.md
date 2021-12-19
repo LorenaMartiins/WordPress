@@ -3,8 +3,10 @@
 # Portifolio - kick
 
 Link da exportação do site: https://drive.google.com/file/d/1pDun8GfUeM8QHVOemwtMNjpamLq5IT3K/view?usp=sharing
+
 Link do site: http://lorena-martins.soukick.ml/portifolio/
-PDF: 
+
+PDF: https://github.com/LorenaMartiins/WordPress/blob/30576e5b8c4ddf29f3d82ab1f0742eb572865fb7/portifolio.pdf
 
 Seção 1 - Principal do site 
 
